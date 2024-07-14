@@ -1,4 +1,5 @@
 This was found inside the rise client source code, and has been there for five months. The filetype is supported by 7zip and you can extract through that.
+( this backend is deprecated and replaced by one made in rust )
 
 
 
