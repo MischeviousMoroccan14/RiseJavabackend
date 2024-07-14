@@ -1,3 +1,7 @@
+This was found inside the rise client source code, and has been there for five months. The filetype is supported by 7zip and you can extract through that.
+
+
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
